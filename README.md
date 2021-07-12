@@ -6,8 +6,8 @@ The school board for a certain school district has notified Maria and her superv
 -How is the district summary affected?.
 
         # Calculate the Average Scores using the "clean_student_data".
-        average_reading_score = school_data_complete_df["reading_score"].mean()
-        average_math_score = school_data_complete_df["math_score"].mean()
+        'average_reading_score = school_data_complete_df["reading_score"].mean()
+        average_math_score = school_data_complete_df["math_score"].mean()'
 
 -How is the school summary affected?
 
