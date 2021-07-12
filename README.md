@@ -15,10 +15,11 @@ The school board for a certain school district has notified Maria and her superv
       before the dishonest values were removed. 
 
 -How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-      
+
+   The image below shows the Per_School_Summary_df before the updated percentage passing values for Thomas High School were added into the dataframe.    
    ![alt text](Resources/Per_School_Summary_df_pre_NaN.png)
       
-      
+   The image below shows the Per_School_Summary_df after the updated percentage passing values for Thomas High School were added into the dataframe.    
    ![alt text](Resources/Per_School_Summary_df_post_NaN.png)
 
 -How does replacing the ninth-grade scores affect the following:
