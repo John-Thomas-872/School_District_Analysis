@@ -37,7 +37,7 @@ The school board for a certain school district has notified Maria and her superv
     $630-644 dollars spent by Thomas High. 
     
     
-    ![alt_text](Resources/Spending Ranges per student.png)
+![alt_text](Resources/Spending_Ranges_per_student.png)
 
     -Scores by school size
 
