@@ -5,12 +5,14 @@ The school board for a certain school district has notified Maria and her superv
 ## Results - Using bulleted lists and images of DataFrames as support, address the following questions.
 -How is the district summary affected? 
 
-      The district summary is affected by the academic dishonesty from the 9th grade students at Thomas High School because the data shows the average scores and percent of
-      those who passed both math and reading for the entire district before the values of the 9th graders from Thomas High School are changed to NaN. 
+      The district summary is affected by the academic dishonesty from the 9th grade students at Thomas High School 
+      because the data shows the average scores and percent of those who passed both math and reading for the entire 
+      district before the values of the 9th graders from Thomas High School are changed to NaN. 
 
 -How is the school summary affected?
    
-      The school summary is also affected the same way as the district summary above. The calculations were done before the dishonest values were removed. 
+      The school summary is also affected the same way as the district summary above. The calculations were done
+      before the dishonest values were removed. 
 
 -How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
