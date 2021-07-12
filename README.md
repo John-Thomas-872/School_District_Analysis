@@ -31,7 +31,12 @@ The school board for a certain school district has notified Maria and her superv
     Since they are grouped together by grade, the 9th grade scores have no affect on the other grades scores. 
   
     -Scores by school spending
+    Comparing the percent passing of math, reading, and the overall of the 10th-12th grade students (excluding the 9th) from 
+    Thomas High School to that of the other schools in the district, Thomas High would likely spend less money per student. The 
+    other schools with similar passing rates to the 10th-12th grade students at Thomas High spend less than $584 compared to the 
+    $630-644 dollars spent by Thomas High. 
     
+ ![alt_image](Resources/Spending Ranges per student.png)
 
     -Scores by school size
 
