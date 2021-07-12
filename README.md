@@ -36,7 +36,7 @@ The school board for a certain school district has notified Maria and her superv
     other schools with similar passing rates to the 10th-12th grade students at Thomas High spend less than $584 compared to the 
     $630-644 dollars spent by Thomas High. 
     
- ![alt_image](Resources/Spending Ranges per student.png)
+   ![alt_image](Resources/Spending Ranges per student.png)
 
     -Scores by school size
 
