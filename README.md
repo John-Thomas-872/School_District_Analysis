@@ -1,8 +1,8 @@
 # School_District_Analysis
-## Overview - Explain the purpose of this analysis.
+## Overview
 The school board for a certain school district has notified Maria and her supervisor that there is evidence of academic dishonesty in a .csv file named students_complete.csv. This file provides the school board with the student's ID number, name, gender, grade, school name, score in reading and their score in math. The evidence points to the scores being altered in Math and Reading for 9th grade students at Thomas High School. The school board is unaware of the extent of the academic dishonesty, so they have reached out to Maria, the chief data scientist for the school district for help. She is responsible for analyzing information from a variety of sources and in a variety of formats. Maria has reached out for assistance in determining the extent of the academic dishonesty as well as analyzing data on student funding and students standardized test scores. Maria needs help agrigating the students data and showcase trends in schools perfomance. This infomration will be given directily to the school board and superintendent to help make decisions about the schools budget and priorities. 
 
-## Results - Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results
 -How is the district summary affected? 
 
       The district summary is affected by the academic dishonesty from the 9th grade students at Thomas High School 
@@ -40,12 +40,27 @@ The school board for a certain school district has notified Maria and her superv
 ![alt_text](Resources/Spending_Ranges_per_student.png)
 
     -Scores by school size
+    The size of Thomas High School's 10th-12th grade student body is 1174 students. Adding the additional 461 9th grade student's 
+    scores would have little to no affect on the overall percentages and scores of the distrct for a school this size. Also adding 
+    the 9th grade studetns would keep the school in the same size bracket for score comparisons. 
+    
     
 ![alt_text](Resources/School_size.png)
 
     -Scores by school type
+    
+     The majority of the schools in this district are Charter schools. The addition of the scores and passing percentages for the 9th
+     grade students at Thomas High School would have little impact on the already existing values. 
 
 ![alt_text](Resources/School_type.png)
 
 
-## Summary - Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+
+Replacing the values for the 9th grade students at Thomas High School with NaN essentially makes it so the grades don't exist. They cannot
+be calculated with the rest of the students data. This is why the information for the 10-12th grade students needed to be recalculated to get 
+accurate numbers for the high school. Because of this, the math and reading scores by grade for the district aren't affected at all. The values
+each grade are seperate so the 9th grade values are not affecting the other grades. There are so many school of the same type (charter) and of 
+the same size (1000-2000) that the removal of the grades has little affect on the over numbers. The only metric that would change is the money 
+spend per student. Comparing the moeny spend by schools with simialr scores to that of the 10th-12th grade at Thomas High indicates that THS would
+spend less money per student that they currently are. 
