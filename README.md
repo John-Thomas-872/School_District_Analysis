@@ -15,6 +15,8 @@ The school board for a certain school district has notified Maria and her superv
       before the dishonest values were removed. 
 
 -How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+      ![alt text](Per_School_Summary_df_Pre_NaN.png)
+      ![alt text](Per_School_Summary_df_Post_NaN.png)
 
 -How does replacing the ninth-grade scores affect the following:
 
