@@ -27,8 +27,10 @@ The school board for a certain school district has notified Maria and her superv
 -How does replacing the ninth-grade scores affect the following:
 
     -Math and reading scores by grade
-
+    Replaceing the 9th grade scores with NaN does not have an affect on the other grades scores for both math and reading. Since they are grouped together by grade, the 9th grade scores have no affect on the other grades scores. 
+  
     -Scores by school spending
+    
 
     -Scores by school size
 
