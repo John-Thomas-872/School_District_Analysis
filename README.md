@@ -21,6 +21,8 @@ The school board for a certain school district has notified Maria and her superv
       
    The image below shows the Per_School_Summary_df after the updated percentage passing values for Thomas High School were added into the dataframe.    
    ![alt text](Resources/Per_School_Summary_df_post_NaN.png)
+   
+   The percent passing in math, reading, and overall for Thomas High School drastically improved with the exclussion of 9th grade scores and percetages. The previous percentages(in the first image) were 66.9% passing math, 69.6% passing reading, and 65.1% passing overall. After the removal of the 9th grade scores and percentages, the percentages changed to 93.2% passing math, 97.0% passing reading, and 95.1% passing overall. 
 
 -How does replacing the ninth-grade scores affect the following:
 
